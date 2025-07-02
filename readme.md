@@ -28,8 +28,8 @@ rest-api-mahasiswa/
 
 ## 🚀 Cara Menjalankan
 
-### 1. **Clone Repository**
-Clone repository ini dengan command: git clone https://github.com/arstd/Project-UAS-REST-API.git
+### 1. **Clone Repository**  
+Clone repository ini dengan command: git clone https://github.com/arstd/Project-UAS-REST-API.git  
 Buka path repository ini pada terminal  
 Ketikkan command: **php -S localhost:8000**
 
