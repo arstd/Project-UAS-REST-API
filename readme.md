@@ -117,7 +117,6 @@ PUT http://localhost:8000/students/update.php?nim=230040168
 **Body JSON:**
 ```json
 {
-  "nim": "230040168"
   "name": "Nicho Update",
   "email": "nicho@update.com",
   "phone": "08111111111"
