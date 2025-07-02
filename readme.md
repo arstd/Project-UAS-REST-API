@@ -111,7 +111,7 @@ POST http://localhost:8000/students/store.php
 
 #### 📝 Edit Mahasiswa
 ```
-PUT http://localhost:8000/students/update.php?id=230040168
+PUT http://localhost:8000/students/update.php?nim=230040168
 ```
 
 **Body JSON:**
@@ -127,7 +127,7 @@ PUT http://localhost:8000/students/update.php?id=230040168
 
 #### ❌ Hapus Mahasiswa
 ```
-DELETE http://localhost:8000/students/delete.php?id=230040168
+DELETE http://localhost:8000/students/delete.php?nim=230040168
 ```
 
 ---
