@@ -95,7 +95,7 @@ GET http://localhost:8000/students/index.php
 ```
 #### 🔍 GET Mahasiswa berdasarkan nim
 ```
-GET http://localhost:8000/students/show.php?230040168
+GET http://localhost:8000/students/show.php?nim=230040168
 ```
 #### ➕ Tambah Mahasiswa
 ```
