@@ -93,7 +93,7 @@ Authorization: Token yang didapat saat login
 ```
 GET http://localhost:8000/students/index.php
 ```
-#### 🔍 GET Semua Mahasiswa
+#### 🔍 GET Mahasiswa berdasarkan nim
 ```
 GET http://localhost:8000/students/show.php?230040168
 ```
